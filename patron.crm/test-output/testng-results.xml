@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46" started-at="2021-03-30T06:45:08Z" finished-at="2021-03-30T06:45:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46" started-at="2021-03-30T06:45:08Z" finished-at="2021-03-30T06:45:08Z">
+      <class name="com.gitpractice.patron.crm.LeadTest">
+        <test-method status="PASS" signature="deleteleadTest()[pri:0, instance:com.gitpractice.patron.crm.LeadTest@6767c1fc]" name="deleteleadTest" duration-ms="15" started-at="2021-03-30T12:15:08Z" finished-at="2021-03-30T12:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteleadTest -->
+        <test-method status="PASS" signature="createleadTest()[pri:0, instance:com.gitpractice.patron.crm.LeadTest@6767c1fc]" name="createleadTest" duration-ms="0" started-at="2021-03-30T12:15:08Z" finished-at="2021-03-30T12:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createleadTest -->
+        <test-method status="PASS" signature="modifyleadTest()[pri:0, instance:com.gitpractice.patron.crm.LeadTest@6767c1fc]" name="modifyleadTest" duration-ms="0" started-at="2021-03-30T12:15:08Z" finished-at="2021-03-30T12:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyleadTest -->
+      </class> <!-- com.gitpractice.patron.crm.LeadTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
